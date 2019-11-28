@@ -24,7 +24,7 @@ Usage
 
 This is most useful for universal ios/tvos/mac projects.  
 Create `Layout`s for your view. For example, portrait and landscape.  
-Create xib's for each layout of each platform or just create them programmaitaclly.
+Create xib's for each layout of each platform or just create them programmatically.
 
 ``` swift
 enum HomeScreenLayout: Layout {
